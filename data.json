@@ -1,0 +1,145 @@
+{
+    "cars":[
+      {
+        "id": "1",
+        "make": "CHEVROLET",
+        "model": "Corvette ZR-1(C4)",
+        "year": 1989,
+        "imageUrl": "img/C4.png"
+      },
+      {
+        "id": "2",
+        "make": "MASERATI",
+        "model": "Gran Turismo S",
+        "year": 2008,
+        "imageUrl": "img/GT.png"
+      },
+      {
+        "id": "3",
+        "make": "DODGE",
+        "model": "Viper SRT10 Coupe",
+        "year": 2006,
+        "imageUrl": "img/VIPER.png"
+      },
+      {
+        "id": "4",
+        "make": "BMW",
+        "model": "Z8",
+        "year": 2001,
+        "imageUrl": "img/Z8.png"
+      },
+      {
+        "id": "5",
+        "make": "AUDI",
+        "model": "R8 4.2",
+        "year": 2007,
+        "imageUrl": "img/R8.png"
+      },
+      {
+        "id": "6",
+        "make": "CHEVROLET",
+        "model": "Corvette ZR-1(C6)",
+        "year": 2009,
+        "imageUrl": "img/C6.png"
+      },
+      {
+        "id": "7",
+        "make": "FERRARI",
+        "model": "Testarossa",
+        "year": 1991,
+        "imageUrl": "img/TESTAROSSA.png"
+      },
+      {
+        "id": "8",
+        "make": "FERRARI",
+        "model": "Dino 246 GT",
+        "year": 1971,
+        "imageUrl": "img/Dino.png"
+      },
+      {
+        "id": "9",
+        "make": "MITSUBISHI",
+        "model": "Lancer Evolution IV GSR",
+        "year": 1996,
+        "imageUrl": "img/EVO IV.png"
+      },
+      {
+        "id": "10",
+        "make": "NISSAN",
+        "model": "R32 GT-R Vspec II",
+        "year": 1994,
+        "imageUrl": "img/R32.png"
+      },
+      {
+        "id": "11",
+        "make": "MITSUBISHI",
+        "model": "Lancer Evolution VI GSR T.M. SCP",
+        "year": 1999,
+        "imageUrl": "img/EVO VI.png"
+      },
+      {
+        "id": "12",
+        "make": "Mercedes-Benz",
+        "model": "SLS AMG",
+        "year": 2013,
+        "imageUrl": "img/SLS.png"
+      },
+      {
+        "id": "13",
+        "make": "NISSAN",
+        "model": "Silvia K's(S13)",
+        "year": 1990,
+        "imageUrl": "img/S13.png"
+      },
+      {
+        "id": "14",
+        "make": "HONDA",
+        "model": "Civic Type R(EK) Touring Car",
+        "year": 2019,
+        "imageUrl": "img/TYPER EK.png"
+      },
+      {
+        "id": "15",
+        "make": "PORSCHE",
+        "model": "911 Carrera RS CS(993)",
+        "year": 1995,
+        "imageUrl": "img/911.png"
+      },
+      {
+        "id": "16",
+        "make": "MAZDA",
+        "model": "RX-7 GT-X(FC)",
+        "year": 1990,
+        "imageUrl": "img/RX7.png"
+      },
+      {
+        "id": "17",
+        "make": "LANCIA",
+        "model": "Stratos",
+        "year": 1973,
+        "imageUrl": "img/STRATOS.png"
+      },
+      {
+        "id": "18",
+        "make": "HONDA",
+        "model": "Civic Si Extra(EF)",
+        "year": 1987,
+        "imageUrl": "img/TYPER.png"
+      },
+      {
+        "id": "19",
+        "make": "RENAULT",
+        "model": "R5 Turbo",
+        "year": 1980,
+        "imageUrl": "img/R5.png"
+      },
+      {
+        "id": "20",
+        "make": "BMW",
+        "model": "3.0 CSL",
+        "year": 1973,
+        "imageUrl": "img/CSL.png"
+      }
+    ]
+      
+}

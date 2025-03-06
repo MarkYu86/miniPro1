@@ -1,0 +1,15 @@
+{
+  "name": "minipro1",
+  "version": "1.0.0",
+  "main": "nimiPro1.js",
+  "scripts": {
+    "start": "json-server --watch data.json --port 3000", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
