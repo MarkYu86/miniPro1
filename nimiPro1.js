@@ -45,3 +45,7 @@ document.getElementById('filter').addEventListener('change',function(){
     popCars(allCars)
   }
 })
+document.querySelector('button').addEventListener('click',function(){
+  document.getElementById('filter').value = '';
+  popCars(allCars);
+})
