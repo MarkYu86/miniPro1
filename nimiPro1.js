@@ -13,7 +13,7 @@ fetch("http://localhost:3000/cars")
 
 function popCars(cars){
   const carList = document.querySelector('#car-list')
-  carList.innerHTML = "";//remove it later to check 
+  carList.innerHTML = "";
   cars.forEach((car)=>{
     addCars(car)
   });
