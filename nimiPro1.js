@@ -1,6 +1,11 @@
 let allCars = [];
 fetch("http://localhost:3000/cars")
-  .then((response) => response.json())
+  .then((response) => {
+    if(!response.ok){
+      throw new Error(`Error Status:${response.status}`)
+    }
+    return response.json()
+  })
   .then((json) => {
     allCars = json;
     popCars(allCars);
